@@ -30,7 +30,7 @@
 ## Lista de Ejercicios
 
 ### Ejercicio # 1: Header de Facebook
-
+![Facebook header](/header-facebook.png "Facebook header")
 
 ### Ejercicio # 2: Botón Interactivo
 
