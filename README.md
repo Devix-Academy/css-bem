@@ -1,4 +1,4 @@
-# Ejercicios para poner a prueba tus conocimientos de la lección: Pseudoclases y Pseudoelementos
+# Ejercicios para poner a prueba tus conocimientos de la lección: Metodología BEM
 
 **¡Desafía tus habilidades CSS!**
 
@@ -37,7 +37,7 @@ Diseña el encabezado de Facebook usando HTML y CSS. Utiliza los iconos de [Font
 ### Ejercicio # 2: Header de Linkedin
 Diseña el encabezado de Linkedin usando HTML y CSS. Utiliza los iconos de [Font Awesome](https://fontawesome.com/) que más se asemejen a los de Linkedin y asegúrate de que los enlaces en el menú de navegación sean reales. El resultado final debe parecerse lo más posible al encabezado actual de Linkedin.
 
-![Linkedin header](/linkedin-facebook.png "Linkedin header")
+![Linkedin header](/header-linkedin.png "Linkedin header")
 
 linkedin Ejercicio # 3: Replica del Feed de Facebook
 Diseña el feed de Facebook usando HTML y CSS. Utiliza los iconos de Font Awesome que más se asemejen a los de Facebook. Agrega interacciones de cambio de color en el icono de "me gusta" al hacer clic. El resultado final debe parecerse lo más posible al feed actual de Facebook.
